@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Urban Shave</title>
+   </head>
+    <body>
+    <header>
+          <div>
+          <img />
+          <span>Facebook</span>
+          <span>Youtube</span>
+          <span>Instagram</span>
+          </div>
+          <nav>
+          <a href="">Contact Us</a>
+          <a href="">Our Story</a>
+          <a href="">Meet the Barbers</a>
+          <a href="">Prices</a>
+          </nav>
+          <div>
+          <a href="">+1-800-421-3614</a>
+          <button>Let's have a chat</button>
+            </div>
+             <div>
+             <span>The New Style is Here</span>
+             <h1>The Urban Shave</h1>
+              <p>
+              The Urban Shave was Crafted to Defy the Expected.
+              </p>
+              </div>
+              </header>
+               <!-- Main Content -->
+               <main>
+               <section>
+               <img src="" />
+               <img src="" />
+               <div>
+                <span>About Us</span>
+                <h3>The best barbershop in the city</h3>
+                <p>
+                If you want the best for your hair, you're in the right place.
+                </p>
+                </main>
+                <footer></footer>
+                </body>
+                </html>
